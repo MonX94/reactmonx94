@@ -1,17 +1,5 @@
 "use strict";
 
-// function Hero(props) {
-// 	let count = 0
-//     return (
-//         <div className="container">
-// 					<div className="count">{count}</div>
-//           <img src={props.imageUrl} onClick={HandleClick}/>
-//           <h1>{props.title}</h1>
-//           <p className="subtitle">{props.subtitle}</p>
-//         </div>
-//     );
-// }
-
 var Hero = React.createClass({
   displayName: "Hero",
 
